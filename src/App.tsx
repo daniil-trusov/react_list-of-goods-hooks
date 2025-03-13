@@ -3,7 +3,7 @@ import './App.scss';
 import { useState } from 'react';
 import cn from 'classnames';
 
-export const goodsFromServer: GoodsType = [
+export const goodsFromServer: Good[] = [
   'Dumplings',
   'Carrot',
   'Eggs',
